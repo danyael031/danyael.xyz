@@ -2,6 +2,7 @@
 title: Configuración de optimización de la batería para Thinkpad con Manjaro.
 description: "Mostrando cómo configuré la batería de mi thinkpad"
 pubDate: 'Mar 30 2021'
+heroImage: '../../assets/blog/bateria-manjaro-thinkpad/thinkpad.jpg'
 ---
 
 Recientemente conseguí un equipo de la línea Thinkpad. Fuera de los aspectos técnicos, una de mis mayores preocupaciones fue que, por usar linux,

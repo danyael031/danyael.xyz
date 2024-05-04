@@ -2,6 +2,7 @@
 title: Low spec CI with git
 description: "Dealing with CI having a potato as a computer"
 pubDate: 'May 16 2020'
+heroImage: '../../assets/blog/low-spec-ci/low-spec-ci-hero.png'
 ---
 
 One of the most annoying things is when I have to compile and publish a version of a dotnet core

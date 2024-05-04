@@ -2,6 +2,7 @@
 title: Administrando blog desde tu dispositivo Android con Termux y GitHub Pages
 description: "Mostrando cómo publicar un sitio web completo desde tu celular, gratis y usando Termux"
 pubDate: 'Nov 21 2019'
+heroImage: '../../assets/blog/blog-en-termux/blog-en-termux-hero-image.png'
 ---
 
 En el primer post de mi blog te mostraré cómo administrar tu propio blog desde tu teléfono móvil, utilizando algunas utilidades de Termux y GitHub Pages.
