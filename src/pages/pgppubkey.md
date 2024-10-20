@@ -6,7 +6,8 @@ layout: ../layouts/SimpleLayout.astro
 
 ## PGP Public Key
 
-Run the following command to import the key:
+Download the key <a href="/danyael.gpg" download>here</a> or run the following
+command to import the key:
 
 ```
 curl -sL https://www.danyael.xyz/danyael.gpg | gpg --import
